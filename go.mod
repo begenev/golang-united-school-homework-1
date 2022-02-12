@@ -1,4 +1,4 @@
-module lesson1
+module _lesson1
 
 go 1.17
 
