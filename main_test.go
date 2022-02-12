@@ -13,5 +13,4 @@ func TestSayHello(t *testing.T) {
 	if res != expected {
 		log.Fatalf("Not equal. Expected (%v), actual (%v)", expected, res)
 	}
-
 }
